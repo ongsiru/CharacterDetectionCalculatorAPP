@@ -1,2 +1,2 @@
 # CharacterDetectionCalculatorAPP
- android, opencv, microprocessor, linuxdriver
+ android, opencv, tesseract OCR, microprocessor, linuxdriver
