@@ -14,6 +14,6 @@
 - <b>Grey Scaling</b><br>
 문자 검출을 돕기 위해 GPU에서 Pooling과 Image Padding을 이용하여 GreyScale 병렬연산 처리를 한다.
 
-## 3. OpenCV
+## 4. OpenCV
 - <b>Tesseract OCR</b><br>
 딥러닝 기반의 Open Source Library로 문자 데이터의 Feature를 학습하여 Prototype과 매칭한 후 문자를 검출한다.
